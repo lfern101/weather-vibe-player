@@ -31,7 +31,7 @@ Want to run this on your own machine? Follow these steps:
 ### 1. Clone the Repo
 Open your terminal and run:
 ```bash
-git clone [https://github.com/yourusername/weather-vibe-player.git](https://github.com/yourusername/weather-vibe-player.git)
+git clone https://github.com/lfern101/weather-vibe-player
 cd weather-vibe-player
 
 ### 2. Get an API Key
