@@ -16,15 +16,6 @@ A web application that detects your local weather conditions and curates a match
 * **APIs:** OpenWeatherMap API, Spotify Embeds
 * **Tools:** VS Code
 
-## Project Structure
-```text
-/weather-vibe
-├── index.html      # Main structure
-├── style.css       # Styling and gradients
-├── app.js          # API logic and DOM manipulation
-└── README.md       # Documentation
-
-
 ## Local Development Setup
 Want to run this on your own machine? Follow these steps:
 
@@ -40,6 +31,15 @@ This project uses the OpenWeatherMap API.
 - Go to "My API Keys" and copy your key. (Note: You must confirm your email to activate the key.)
 - open app.js in your code editor.
 - Find the line const apiKey = 'INSERT_YOUR_KEY_HERE'; and paste your key inside the quotes.
+```
 
 ### Run the Project
-Double click on the index.html file and it will load the webpage into your browser locally. 
+Double click on the index.html file and it will load the webpage into your browser locally.
+
+## Project Structure
+```text
+/weather-vibe
+├── index.html      # Main structure
+├── style.css       # Styling and gradients
+├── app.js          # API logic and DOM manipulation
+└── README.md       # Documentation
