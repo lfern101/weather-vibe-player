@@ -24,8 +24,9 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/lfern101/weather-vibe-player
 cd weather-vibe-player
-
+```
 ### 2. Get an API Key
+```
 This project uses the OpenWeatherMap API.
 - Sign up for a free account at OpenWeatherMap.
 - Go to "My API Keys" and copy your key. (Note: You must confirm your email to activate the key.)
@@ -33,7 +34,7 @@ This project uses the OpenWeatherMap API.
 - Find the line const apiKey = 'INSERT_YOUR_KEY_HERE'; and paste your key inside the quotes.
 ```
 
-### Run the Project
+### 3. Run the Project
 Double click on the index.html file and it will load the webpage into your browser locally.
 
 ## Project Structure
