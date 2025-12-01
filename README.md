@@ -3,7 +3,7 @@
 A web application that detects your local weather conditions and curates a matching Spotify playlist to fit the mood.
 
 ## Live Demo
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lh8JW-mPna0?si=9umXBgz0_W_j2DdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How it Works
 1. **Geolocation:** The app requests the user's browser location.
